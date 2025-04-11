@@ -7,6 +7,13 @@ A simple console-based Task Management app built using Python. This app allows u
 
 ---
 
+## Project Demo Video
+
+[Click here to watch the demo video](https://drive.google.com/file/d/1ZjCqbBw8C_HjTaOM9WIEL-sC4dr3WdPr/view?usp=sharing)
+
+📝 Note: The audio in the video is low — please use headphones or increase the volume for better clarity.  
+If needed, feel free to refer to the code and comments for more understanding.
+
 ## 📁 Features
 
 - ✅ Add new tasks with:
